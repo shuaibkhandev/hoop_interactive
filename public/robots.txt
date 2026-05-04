@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hoop-interactive.vercel.app/sitemap.xml
